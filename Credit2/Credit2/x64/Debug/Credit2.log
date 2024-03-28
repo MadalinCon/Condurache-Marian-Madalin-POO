@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Credit2.cpp
+  CreditCardAccount.cpp
+  LoyaltyScheme.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Credit2.vcxproj -> C:\Users\Student\Desktop\Condurache Madalin\Credit2\x64\Debug\Credit2.exe
