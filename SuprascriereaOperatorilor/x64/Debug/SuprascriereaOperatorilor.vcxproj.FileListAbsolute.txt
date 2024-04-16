@@ -1,0 +1,2 @@
+C:\Users\Student\Desktop\Condurache Madalin\SuprascriereaOperatorilor\x64\Debug\SuprascriereaOperatorilor.vcxproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Condurache Madalin\SuprascriereaOperatorilor\x64\Debug\SuprascriereaOperatorilor.exe
